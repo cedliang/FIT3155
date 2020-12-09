@@ -2,11 +2,14 @@
 """
 Spyder Editor
 
-This is a temporary script file.
+AN IMPLEMENTATION OF A BINARY-HEAP BASED DIJKSTRA'S ALGORITHM TO SOLVE A TREASURE HUNTING PROBLEM
 """
 import sys
 
-#could not get my fib heap to work, so I'm implementing dijkstra's with a binary heap
+#############
+
+
+
 class binHeap:
 
 
